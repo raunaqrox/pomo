@@ -13,3 +13,9 @@
  - Modes
 	- break time
 	- custom mode like Deep work where periods could be set for longer time duration
+
+
+`pomo start 10`
+starts a timer for 10 seconds
+will turn it into minutes later
+
